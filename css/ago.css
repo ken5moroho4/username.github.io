@@ -1,0 +1,40 @@
+body{
+  background-image: url("../img/splashing-165192_1280.jpg");
+  min-height: 100vh;
+background-attachment: fixed;
+background-size: cover;
+background-position: center;
+color: white;
+}
+#concept1 img{
+  width: 200px;
+  height: 350px;
+  display: inline-block;
+}
+#concept2 img{
+  width: 200px;
+  height: 300px;
+  display: inline-block;
+}
+#concept3 img{
+  width: 200px;
+  height: 300px;
+  display: inline-block;
+}
+#concept4 img{
+  width: 200px;
+  height: 300px;
+  display: inline-block;
+}
+.ago{
+  margin: 0 auto;
+  text-align: center;
+    padding: 0.5em 1em;
+    background: -moz-linear-gradient(#ffb03c, #ff708d);
+    background: -webkit-linear-gradient(#ffb03c, #ff708d);
+    background: linear-gradient(to right, #ffb03c, #ff708d);
+    color: #FFF;
+    width: 800px;
+    height: auto;
+    border-radius: 50px
+}

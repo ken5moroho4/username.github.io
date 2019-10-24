@@ -1,0 +1,106 @@
+body{
+  background-image: url("../img/business-3152586_1920.jpg");
+  min-height: 100vh;
+background-attachment: fixed;
+background-size: cover;
+background-position: center;
+}
+#menu{
+  text-align: center;
+  list-style-type: none;
+}
+
+#menu li {
+  list-style: none;
+  display: inline-block;
+  text-decoration: none;
+  padding-right: 10px;
+  margin-left: 15px;
+  margin-right: 15px;
+  font-size: 30px;
+  border-right: solid;
+}
+li a{
+  text-decoration: none;
+  list-style: none;
+  color: black;
+}
+li a:hover{
+  text-decoration: none;
+  list-style: none;
+  color: blue;
+}
+/* ----------------------- */
+#concept2 img{
+  width: 200px;
+  height: 350px;
+}
+#concept3 img{
+  width: 200px;
+  height: 350px;
+}
+#concept4 img{
+  width: 200px;
+  height: 350px;
+}
+/* --------------------- */
+#concept1 img{
+  display: inline-block;
+  width: 400px;
+  height: 600px;
+  text-align:center;
+  line-height: 80px;
+  border-radius: 50%;
+  border: solid 3px skyblue;
+}
+#concept1 h1{
+  display: inline-block;
+  background-color: white;
+  border-radius: 30px;
+}
+#concept2 img{
+  display: inline-block;
+  width: 400px;
+  height: 700px;
+  text-align:center;
+  line-height: 80px;
+  border-radius: 50%;
+  border: solid 3px skyblue;
+}
+#concept2 h1{
+  display: inline-block;
+  background-color: white;
+  border-radius: 30px;
+}
+#concept3 img{
+  display: inline-block;
+  width: 400px;
+  height: 500px;
+  text-align:center;
+  line-height: 80px;
+  border-radius: 50%;
+  border: solid 3px skyblue;
+}
+#concept3 h1{
+  display: inline-block;
+  background-color: white;
+  border-radius: 30px;
+}
+#concept4 img{
+  display: inline-block;
+  width: 400px;
+  height: 500px;
+  text-align:center;
+  line-height: 80px;
+  border-radius: 50%;
+  border: solid 3px skyblue;
+}
+#concept4 h1,a{
+  display: inline-block;
+  background-color: white;
+  border-radius: 30px;
+  color: blue;
+  list-style: none;
+  text-decoration: none;
+  font-size: 30px;
+}

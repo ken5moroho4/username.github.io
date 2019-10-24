@@ -1,0 +1,98 @@
+body{
+  background-image: url("../img/hot-air-balloon-2411851_1280.jpg");
+  min-height: 100vh;
+background-attachment: fixed;
+background-size: cover;
+background-position: center;
+color:white;
+}
+#menu{
+  text-align: center;
+  list-style-type: none;
+}
+#menu li {
+  list-style: none;
+  display: inline-block;
+  text-decoration: none;
+  padding-right: 10px;
+  margin-left: 15px;
+  margin-right: 15px;
+  font-size: 30px;
+  border-right: solid;
+  color: black;
+}
+li a{
+  text-decoration: none;
+  list-style: none;
+  color: white;
+}
+li a:hover{
+  text-decoration: none;
+  list-style: none;
+  color: black;
+  font-size: 40px;
+  transition-duration:2s;
+}
+/* --------------------------------------------------------------------- */
+#concept {
+  text-align: center;
+}
+#concept h1{
+  text-align: center;
+  margin-top: 0px;
+  font-size: 80px;
+font-family: 'Anton', sans-serif;
+/* color: #ACB6E5; */
+background: -webkit-linear-gradient(0deg,yellow, red);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+#concept .dream h2{
+ display: inline-block;
+  margin-left: 50px;
+  margin-right: 100px;
+}
+#concept .dream h2{
+  padding-top: 20px;
+  height: 100px;
+    text-align:center;
+    line-height: 80px;
+    border-radius: 50%;
+    border: solid 3px skyblue;
+}
+
+#flow h1{
+  text-align: center;
+  text-align: center;
+  margin-top: 0px;
+  font-size: 40px;
+font-family: 'Anton', sans-serif;
+/* color: #ACB6E5; */
+background: -webkit-linear-gradient(0deg,yellow, red);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+.flow1 h2{
+  text-align: center;
+}
+.flow1 img{
+  float: right;
+  margin-top: 50px;
+  border-radius: 20px;
+}
+.flow1 h3,p{
+  margin-left: 100px;
+}
+.flow2{
+  margin-top: 400px;
+  margin-bottom: 600px
+}
+.flow2 h3,p{
+  margin-left: 100px;
+}
+.flow2 img{
+  float: right;
+  margin-top: 50px;
+  border-radius: 20px;
+}
+/* ----------------------- */
